@@ -5,7 +5,7 @@ import {AiFillGoogleCircle,AiFillYoutube,AiFillInstagram,AiFillFacebook} from "r
 const Home = () => {
   return (
     <>
-    <div className='Home' >
+    <div className="Home" >
         <main>
             <h1>Dhiraj Official</h1>
             <p>Welcome to my page</p>
@@ -30,7 +30,7 @@ const Home = () => {
             </p>
         </div>
     </div>
-    <div className="Home4" id="Contact">
+    <div className="Home4" id="Brand">
         <div>
         <h1>Brands</h1>
         <article>

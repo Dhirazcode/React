@@ -16,18 +16,20 @@ nav {
     top: 0%;
     z-index: 10;
 
-    h1 {
+    >h1 {
         text-transform: uppercase;
+   
     }
 
-    main {
-        padding: 10px; 
+    >main {
+        padding: 5px; 
         width: 70%;
         display: flex;
         justify-content: flex-end;
-        align-items: center;
+        // align-items: center;
+        
 
-        a {
+       > a {
             margin: 0 20px; 
             color: $dark; 
             &:hover {
